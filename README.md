@@ -1,12 +1,5 @@
 # Interview-Prep-Tracker
 
-Team Members:
-* KOLLI SAI TEJA
-* DAIVALA SAI VIGNESH
-* ALURI ARVIND
-* TENALI KEERTHI KISHAN
-
-
 This is an web application which helps for the preparation of interviews by providing previous years experiences of others and also by providing good programming questions to practice. 
 
 ### Used Tech
