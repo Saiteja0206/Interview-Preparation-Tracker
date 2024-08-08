@@ -27,7 +27,7 @@ app.use(bodyParser.json())
 app.set('view engine', 'ejs');
 
 // database connection
-const dbURI = 'mongodb+srv://surya:test123@cluster0.somyv.mongodb.net/node-auth';
+const dbURI = 'mongodb+srv://saiteja:test123@cluster0.somyv.mongodb.net/node-auth';
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex:true })
   .then((result) => {
     console.log('connection made!!');
