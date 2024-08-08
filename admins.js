@@ -11,7 +11,7 @@ const email = "mark@google.com";
 const password = "qwert123";
 const role = "restricted";
 
-const dbURI = 'mongodb+srv://surya:test123@cluster0.somyv.mongodb.net/node-auth';
+const dbURI = 'mongodb+srv://saiteja:test123@cluster0.somyv.mongodb.net/node-auth';
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex:true })
   .then(async (result) => {
     console.log('connection made!!');
